@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("bazi.jpg") no-repeat center;
+    background-image: linear-gradient(to right, #C0C0C0 , #0e76a8);
     height: 100vh;
     color: #fff;
     min-height: 500px;
